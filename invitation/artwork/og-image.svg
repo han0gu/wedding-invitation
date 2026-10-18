@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630">
+  <rect width="1200" height="630" fill="#f6eded"/>
+  <rect x="32" y="32" width="1136" height="566" rx="220" fill="none" stroke="#d5b5b7"/>
+  <rect x="43" y="43" width="1114" height="544" rx="210" fill="none" stroke="#e3cdcf"/>
+  <g fill="none" stroke="#a5737f" stroke-width="2" stroke-linecap="round">
+    <path d="M600 162c-42-24-29-53-9-42l9 8 9-8c20-11 33 18-9 42z"/>
+    <path d="M220 400q-60-80-18-164m-1 108q-44-8-42-42 33 7 42 42m-7-54q-28-22-13-46 23 16 13 46m-1 24q33-14 37-45-32 8-37 45m5-59q25-13 25-36-27 9-25 36"/>
+    <path d="M980 400q60-80 18-164m1 108q44-8 42-42-33 7-42 42m7-54q28-22 13-46-23 16-13 46m1 24q-33-14-37-45 32 8 37 45m-5-59q-25-13-25-36 27 9 25 36"/>
+    <path d="M460 474h105m70 0h105" stroke="#c6a3ab"/>
+    <path d="m600 467 7 7-7 7-7-7z" fill="#c6a3ab" stroke="none"/>
+  </g>
+  <text x="600" y="222" text-anchor="middle" fill="#946b75" font-family="Georgia,serif" font-size="20" letter-spacing="6">WEDDING INVITATION</text>
+  <text x="600" y="326" text-anchor="middle" fill="#704c59" font-family="Apple SD Gothic Neo,sans-serif" font-size="64" font-weight="400" letter-spacing="3">저희 결혼합니다</text>
+  <text x="600" y="391" text-anchor="middle" fill="#8b737a" font-family="Apple SD Gothic Neo,sans-serif" font-size="25" letter-spacing="2">소중한 분들을 초대합니다</text>
+</svg>
