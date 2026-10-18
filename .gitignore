@@ -1,0 +1,6 @@
+outputs/
+runs/
+tmp/
+
+# Mac
+.DS_Store
